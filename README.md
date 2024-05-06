@@ -4,8 +4,7 @@ This project benchmarks newest ML techniques for Cell Type/Subtype Identificatio
 ## Colab Notebooks used for model training / validation:
 
 - [scGPT Zero-shot Reference Mapping](https://drive.google.com/file/d/16DIjs5HjpDqz38wa736MzQeLACOphMUa/view?usp=sharing)
-- [SCimilarity]()
-- [scBert](https://colab.research.google.com/drive/1j0D6llXz_4NrYOUTj__u_RLKyvGRBG2o?usp=sharing)
+- [SCimilarity](https://drive.google.com/file/d/1u2UOcmc38-p0Pzg7H-ZzngZJ8teQf8eO/view?usp=sharing)
 - [Celltypist](https://colab.research.google.com/drive/1G8dKtBO_0ijoYxuYVMCtEFn7mfjEMe4V?usp=sharing)
 - [scNym](https://colab.research.google.com/drive/1O03ON3R-ziWag56XexVdcVB6mGhK0ks1?usp=sharing)
 
